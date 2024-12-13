@@ -4,8 +4,11 @@ MY PLANING CONTENT
   * web
   * desktop
   * Fundamental C#
+  * View
 - JavaScript
 - C Frameworks
 - PHP Frameworks
+  *Laravel
 - Interview
 - Channel You Tube
+- pyton
