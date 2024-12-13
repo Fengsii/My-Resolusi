@@ -1,6 +1,8 @@
 MY PLANING CONTENT
 
 - C Sharp Project
+  * web
+  * desktop
 - JavaScript
 - C Frameworks
 - PHP Frameworks
