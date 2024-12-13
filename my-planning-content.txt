@@ -3,6 +3,7 @@ MY PLANING CONTENT
 - C Sharp Project
   * web
   * desktop
+  * Fundamental C#
 - JavaScript
 - C Frameworks
 - PHP Frameworks
