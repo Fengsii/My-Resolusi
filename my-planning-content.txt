@@ -6,6 +6,8 @@ MY PLANING CONTENT
   * Fundamental C#
 - JavaScript
 - C Frameworks
+  * React
 - PHP Frameworks
+  * Laravel
 - Interview
 - Channel You Tube
